@@ -43,7 +43,7 @@ button:active {
 h1 {
     display: flex;
     justify-content: center;
-    padding: 50px;
+    padding: 30px;
     color: #b3d0fc;
     font-family: "Titillium Web", sans-serif;
 }
